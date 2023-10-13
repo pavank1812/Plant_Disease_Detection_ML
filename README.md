@@ -1,11 +1,4 @@
-Plant Disease Detection using Deep Learning where we developed a crop disease detection system that employs deep learning and artificial neural networks to identify diseases impacting crops. Trained the model using crop disease datasets, allowing it to learn and recognize patterns linked with Particular crop diseases.
-
-
-
-
-
 # Disease Detection
-
 **Disease Detection** is a plant disease detecter ✅ Android application 📱 built using Tensorflow Lite, Kaggle and Teachable Machine.
 
 ***You can Install and test latest Disease Detection app from below 👇***
